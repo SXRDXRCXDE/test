@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+.centerDivRow {
+    @apply flex items-center justify-center ;
+}
+
+.centerDivColumn {
+    @apply flex flex-col items-center justify-center ;
+}
